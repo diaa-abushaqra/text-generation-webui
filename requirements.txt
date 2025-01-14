@@ -4,7 +4,7 @@ datasets
 einops
 fastapi==0.95.2
 gradio_client==0.2.5
-gradio==3.33.1
+gradio==5.11.0
 markdown
 numpy
 pandas
@@ -15,7 +15,7 @@ safetensors==0.3.1
 scipy
 sentencepiece
 tensorboard
-transformers==4.31.*
+transformers==4.48.*
 tqdm
 wandb
 git+https://github.com/huggingface/peft@96c0277a1b9a381b10ab34dbf84917f9b3b992e6
